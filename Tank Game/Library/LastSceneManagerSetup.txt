@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Miguels.unity
+- path: Assets/Scenes/Startgame.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
