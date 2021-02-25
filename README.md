@@ -5,12 +5,12 @@ This is homework work done by Miguel Mellado and Christian Achacoso
 Clone repo and run in unity 2019.4.19f1
 Run scene start game and click start game
 
-### Use keys wasd to move
+- Use `wasd` to move
 
-### Click to drop bombs
+- `Click` to drop bombs
 
-### Use z to change lighting
+- Use `z` to change lighting
 
-### Use x to change materials
+- Use `x` to change materials
 
-### Use c to change camera
+- Use `c` to change camera
